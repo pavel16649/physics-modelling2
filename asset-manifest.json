@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/physics-modelling2/static/css/main.38d90f5b.css",
-    "main.js": "/physics-modelling2/static/js/main.6f3cdda7.js",
+    "main.js": "/physics-modelling2/static/js/main.563fc3ce.js",
     "static/js/453.5532c681.chunk.js": "/physics-modelling2/static/js/453.5532c681.chunk.js",
     "index.html": "/physics-modelling2/index.html",
     "main.38d90f5b.css.map": "/physics-modelling2/static/css/main.38d90f5b.css.map",
-    "main.6f3cdda7.js.map": "/physics-modelling2/static/js/main.6f3cdda7.js.map",
+    "main.563fc3ce.js.map": "/physics-modelling2/static/js/main.563fc3ce.js.map",
     "453.5532c681.chunk.js.map": "/physics-modelling2/static/js/453.5532c681.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38d90f5b.css",
-    "static/js/main.6f3cdda7.js"
+    "static/js/main.563fc3ce.js"
   ]
 }
