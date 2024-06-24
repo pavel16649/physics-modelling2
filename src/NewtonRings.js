@@ -147,7 +147,7 @@ function NewtonRings() {
                     <input type="number" name="wavelength" value={wavelength} onChange={handleInputChange}/>
                 </div>
                 <div className='input'>
-                    Ширина частотного диапазона, нм:
+                    Ширина диапазона длины волны, нм:
                     <input type="number" name="wavelengthDelta" value={wavelengthDelta} onChange={handleInputChange}/>
                 </div>
                 <br/>
